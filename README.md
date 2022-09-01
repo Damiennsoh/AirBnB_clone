@@ -282,4 +282,4 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **Damien Nsoh Ayine** <[Damiennsoh](https://github.com/Damiennsoh)>
-  **Christopher Wiafe Debrah** <[askdebb](https://github.com/askdebb)> 
+* **Christopher Wiafe Debrah** <[askdebb](https://github.com/askdebb)> 
